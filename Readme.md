@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Евгений  Абрамов](https://up.htmlacademy.ru/htmlcss/15/user/228416).
-* Наставник: [Aндрей Рычагов](https://up.htmlacademy.ru/htmlcss/15/tasks/7).
+* Наставник: [Aндрей master Рычагов](https://up.htmlacademy.ru/htmlcss/15/tasks/7).
 
 ---
 
